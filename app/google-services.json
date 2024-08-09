@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672496396839",
+    "project_id": "yapilacaklarlistesijava",
+    "storage_bucket": "yapilacaklarlistesijava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672496396839:android:065d4fcfbd2af6e5b0bc02",
+        "android_client_info": {
+          "package_name": "com.mertg.yapilacaklarlistesijava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_IJMtWW7NVLLVRQJ00BUsQGNNYoQewc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
